@@ -40,7 +40,7 @@
 
 ## ⚙️ 기술 스택
 
-* Programming Languages and Tools <br/>
+* Programming Languages and Tools <br/> <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
 <br/>
 
