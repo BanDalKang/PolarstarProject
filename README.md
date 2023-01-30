@@ -14,7 +14,8 @@
 ## 📝 프로젝트 배경
 
 현재 실종 신고 접수 건수는 점차 감소하고 있으나 지속해서 발생하고 있습니다.</br>
-그중 발달 장애인은 장애 특성상 실종 상황에서 자신의 상황을 인지하기 어려운데, 장애인의 실종을 전담하는 전문 기관이 없어 전문가의 신속한 대응이 어렵습니다.</br>
+그중 발달 장애인은 장애 특성상 실종 상황에서 자신의 상황을 인지하기 어려운데, </br> 
+장애인의 실종을 전담하는 전문 기관이 없어 전문가의 신속한 대응이 어렵습니다.</br>
 이런 상황을 개선하는 데에 조금이라도 기여하기 위해 실종 장애인 위치 파악 서비스 앱을 개발하게 됐습니다.</br>
 
 프로젝트의 목표는 다음과 같습니다:
@@ -38,6 +39,9 @@
 <br/>
 
 ## ⚙️ 기술 스택
+
+💻 Programming Languages and Tools
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
 
 * 
 <br/>
